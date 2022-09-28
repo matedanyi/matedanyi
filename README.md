@@ -6,6 +6,9 @@
  - I'm studying: React
  - 2022 Goals: Learn React & Node.js
 
+I am an ex-chef who has chosen programming to create value and help others to solve their problems. My experience in hospitality taught me how to prioritize tasks, attention to details, work under pressure, working with deadline and the importance of good communication.
+
+
  ### Connect with me:
  <div align="left">
  <a href="https://www.linkedin.com/in/matedanyi/">
