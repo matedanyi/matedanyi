@@ -67,4 +67,6 @@
   </tbody>
 </table>
 
-
+ ### About Me
+ 
+ I am an ex-chef who has chosen programming to create value and help others to solve their problems. My experience in hospitality taught me how to prioritize tasks, attention to details, work under pressure, working with deadline and the importance of good communication.
